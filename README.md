@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, Python & Typescript**
 
-- 💬 Ask me about **React, JavaScript & Flutter**
+- 💬 Ask me about **React, JavaScript, PHP, Laravel & Flutter**
 
 
 <h3 align="left">Languages and Tools:</h3>
