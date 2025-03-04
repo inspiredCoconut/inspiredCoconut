@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kevin</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Django, Python & Typescript**
+- 🌱 I’m currently learning **Django, Python & Flutter**
 
 - 💬 Ask me about **React, JavaScript, PHP, Laravel & Flutter**
 
